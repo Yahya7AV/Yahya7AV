@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Yahya7AV
-- 👀 I’m interested in Software Engineering and web development.
-- 🌱 I’m currently learning JS.
+- 👀 Software Engineering Student
+- 🌱 Flutter Dev.
 - 📫 My email: yahyaraaedf7@gmail.com
 
 <!---
